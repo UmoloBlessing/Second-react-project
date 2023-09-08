@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-      {/* <TypingAnimation></TypingAnimation> */}
+      <TypingAnimation></TypingAnimation>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
